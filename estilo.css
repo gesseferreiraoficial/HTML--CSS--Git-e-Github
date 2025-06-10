@@ -117,3 +117,28 @@ div .secao-tattoaria {
     text-decoration: none;
 
 }
+
+/* === CÃO / BACKGROUND === */
+
+.body-background-cao {
+    background-color: aqua;
+    width: 100%;
+    height: 100%
+}
+
+.div-background-cao {
+    width: 300px;
+    background-color: #ffffff;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.img-background-cao {
+    width: 100%;
+    height: 100%;
+}
+
+.p-background-cao {
+    font-size: 18px;
+    text-align: justify;
+}
