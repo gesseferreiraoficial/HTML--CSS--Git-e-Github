@@ -85,3 +85,35 @@ div .secao-tattoaria {
 .texto-vermelho-tattoaria {
     color: #ff2200;
 }
+
+/* === BACKGROUND === */
+
+.body-background {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #00a2ea;
+}
+
+.card-background {
+    background-color: #ffffff;
+    width: 320px;
+    text-align: justify;
+    border-radius: 5px;
+    padding: 5px 20px;
+    margin: 10px auto;
+}
+
+.paragrafo-background {
+    width: 800px;
+    padding: 5px 20px;
+    margin: 10px auto;
+    text-align: center;
+}
+
+.h1-background {
+    font-size: 22px;
+    text-align: center;
+    text-decoration: none;
+
+}
