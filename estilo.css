@@ -142,3 +142,54 @@ div .secao-tattoaria {
     font-size: 18px;
     text-align: justify;
 }
+
+/* === SENHOR DOS ANÉIS / BACKGROUND === */
+
+.body-srdosaneis {
+    background-color: #250553;
+    margin: 0;
+}
+
+.srdosaneis-topo {
+    /* height: 50px; */
+    background-color: #02021c;
+    padding: 10px 0;
+    text-align: center
+}
+
+.h1-srdosaneis {
+    margin: 0;
+    color: #fff;
+    font-size: 18px;
+}
+
+.h2-srdosaneis {
+    color: #ffffff;
+}
+
+.img-srdosaneis {
+    height: 400px;
+}
+.conteudo-srdosaneis {
+    color: #cfcfcf;
+    padding: 20px 80px;
+    text-align: center;
+    margin: 0 auto;
+    width: 600px
+}
+
+.p-srdosaneis {
+    font-size: 18px;
+    line-height: 36px;
+}
+
+.p-topo-srdosaneis {
+    text-align: center;
+}
+
+.texto-destaque-srdosaneis {
+    background-color: #b535f6;
+    color: #ffffff;
+    padding: 5px 15px;
+    font-weight: bold;
+}
