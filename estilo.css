@@ -28,7 +28,7 @@ a {
 	background-color: #bd4348;
 	color: #ffffff;
 	text-decoration: nome;
-	padding: 2px 10px;
+	padding: 2px 20px;
 	border-radius: 10px
 }
 
@@ -191,5 +191,48 @@ div .secao-tattoaria {
     background-color: #b535f6;
     color: #ffffff;
     padding: 5px 15px;
+    font-weight: bold;
+}
+
+/* === ALAN WAKE 2 / BACKGROUND === */
+
+.body-alanwake2 {
+    margin: auto;
+    background-image: url(img/alanwake2/img1.jpg);
+    }
+
+.seca-topo-alanwake2 {
+    background-color: #0078f2;
+    text-align: center;
+    padding: 10px 20px
+}
+
+.secao-topo-alanwake2 p {
+  margin: 0;
+  font-size: 22px;
+  color: #fff
+}
+
+.secao-alanwake2 {
+    padding: 10px 20px;
+    width: 600px;
+    margin: 0 auto;
+    color: rgb(201, 201, 201);
+}
+
+.img-alanwake2 {
+    width: 100%;
+}
+
+.a-alanwake2 {
+  background-color: #fff;
+  padding: 5px 10px;
+  text-decoration: none;
+  color: #000;
+  border-radius: 20px;
+}
+
+.span-alanwake2 {
+    color: #fff;
     font-weight: bold;
 }
