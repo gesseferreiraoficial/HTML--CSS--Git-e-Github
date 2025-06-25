@@ -322,3 +322,29 @@ div .secao-tattoaria {
   text-align: center;
   padding: 10px 25px;
 }
+
+/* PAPELARIA CULTURA */
+
+.body-papelaria-cultura {
+    background-color: #00a2ea;
+    margin: auto;
+}
+
+.p-papelaria-cultura {
+    text-align: justify;
+    width: 300px;
+    font-size: 18px;
+}
+
+.li-lista-papelaria-cultura li {
+    background-color: #f5f5f5; /* só pra destacar a área */
+    padding: 1px 10px;
+    border-radius: 15px 0 0 15px; /* apenas o lado esquerdo arredondado */
+    margin-bottom: 5px;
+    line-height: 1.8;
+}
+
+
+
+
+    
